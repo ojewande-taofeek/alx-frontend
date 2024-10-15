@@ -22,6 +22,25 @@ Important note: details are important! lowercase vs uppercase / wrong letter… 
 - [Can I use… Support tables for HTML5, CSS3, etc](https://intranet.alxswe.com/rltoken/u6RvQ_45Xpw82Awl82NZcg)
 - [HTML Cheat Sheet - WebsiteSetup](https://intranet.alxswe.com/rltoken/6SV9Z98vlb8iehxHnl9YJg)
 
+
+## Other Resources
+**Read or Watch:**
+
+- [Doctype - MDN Web Docs Glossary: Definitions of Web-related terms | MDN](https://intranet.alxswe.com/rltoken/hIG2FjCTGBZWWi9iVLPrnA)
+- [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [HEAD - A free guide to head elements](https://intranet.alxswe.com/rltoken/EZtKJx4_IPYRKnC40TOIig)
+- [Building RTL-Aware Web Apps & Websites: Part 1 - Mozilla Hacks - the Web developer blog](https://intranet.alxswe.com/rltoken/9SmhTuUOu26fPopU4bE9WQ)
+- [Declaring character encodings in HTML](https://intranet.alxswe.com/rltoken/bbD9Y6adMOvzaMAv8tOdgA)
+- [Meta Charset](https://intranet.alxswe.com/rltoken/RX02pjKDo2KIxNzDT65qog)
+- [Responsive Design With Viewport Control](https://intranet.alxswe.com/rltoken/0yCM0qBDrvmhFc3Rc1Wh4g)
+- [The ideal width of the SEO title • Yoast](https://intranet.alxswe.com/rltoken/iiw66IIVemsN72CyLFChxw)
+- [The ideal length of a meta description • Yoast](https://intranet.alxswe.com/rltoken/HPoXoWYwQS5PLvINc_ksVA)
+- [Favicon & App Icon Generator](https://intranet.alxswe.com/rltoken/dE8zprnn34BJ9hqM13XfTA)
+- [Favicon Generator for all platforms: iOS, Android, PC/Mac…](https://intranet.alxswe.com/rltoken/ZaE4xx36mKFIMqlHd88csQ)
+- [Official Google Webmaster Central Blog: Evolving “nofollow” – new ways to identify the nature of links](https://intranet.alxswe.com/rltoken/n2rPNQIC-JLzGQa5HtWS0g)
+- [How Google’s Nofollow, Sponsored, & UGC Links Impact SEO - Moz](https://intranet.alxswe.com/rltoken/x4vM611ymUGE2b-Ehrqn7A)
+
+
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
