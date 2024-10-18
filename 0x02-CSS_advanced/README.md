@@ -52,9 +52,9 @@ favicon.jpg
 
 logo-black.png
 
+logo-white.png
 ![logo-black.png](./readme_images/logo-black.png)
 
-logo-white.png
 ![logo-white.png](./readme_images/logo-white.png)
 
 Store all these under a directory named “images”
