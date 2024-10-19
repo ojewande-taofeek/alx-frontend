@@ -348,9 +348,6 @@ template {
   display: none;
 }
 
-* {
-  box-sizing: border-box;
-}
 
 :root {
     --color-primary: #d73953;
@@ -360,7 +357,7 @@ template {
     --color-dark-grey: #353535;
     --text-color: var(--color-black);
     --font-family-base: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --font-family-title: Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-family-title: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
     --font-size-small: 1.2rem;
     --font-size-medium: 1.6rem;
     --font-size-large: 1.8rem;
@@ -377,7 +374,11 @@ template {
     --section-title-color: var(--color-black);
 }
 
-
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
 
 html {
     scroll-behavior: smooth;
