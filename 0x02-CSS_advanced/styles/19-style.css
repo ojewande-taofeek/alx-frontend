@@ -385,6 +385,7 @@ template {
     --nav-item-display: inline-block;
     --nav-item-margin: 0 0 3rem;
     --nav-item-link-hover: var(--color-primary);
+    --section-tagline-margin: 0;
 }
 
 *,
