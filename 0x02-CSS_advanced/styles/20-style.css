@@ -433,7 +433,7 @@ body {
 }
 
 .nav .nav-link:hover {
-  color: var(--color-primary);
+  color: var(--nav-item-link-hover);
 }
 
 h1,
@@ -502,6 +502,7 @@ a:active {
     font-family: var(--font-family-title);
     text-transform: var(--section-tagline-transform);
     font-weight: var(--font-weight-bold);
+    margin: var(--section-tagline-margin);
 }
 
 .container {
